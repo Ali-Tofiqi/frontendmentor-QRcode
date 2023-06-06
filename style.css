@@ -9,6 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height:100vh
 }
 
 .card {
@@ -20,7 +21,6 @@ body{
     max-width: 300px;
     box-sizing: border-box;
     padding: 15px;
-    margin-top: 100px;
   
 }
 .card img {
@@ -30,9 +30,11 @@ body{
     object-fit: cover;
     object-position: center;
 }
-.card h3{
+.card h1{
     color: rgb(22, 36, 61);
     text-align: center;
+    font-weight: 900;
+    font-size: 20px;
 }
 .card p{
     font-size: 15px;
@@ -44,7 +46,5 @@ body{
     bottom: 5px;
 }
 @media screen and (max-width: 375px) {
-    .card{
-        margin-top: 50px;
-    }
+    
   }
