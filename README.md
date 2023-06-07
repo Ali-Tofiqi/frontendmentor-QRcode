@@ -18,6 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Live Site URL: [GitHub pages](https://ali-tofiqi.github.io/frontendmentor-QRcode/)
+- Solution URL: [Solution on FrontendMentor](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-EDxRwhaP0C)
 
 ### Built with
 
@@ -33,4 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 - Frontend Mentor - [@Ali-Tofiqi](https://www.frontendmentor.io/profile/Ali-Tofiqi)
 - Twitter - [@Ali_Tofiqi](https://twitter.com/Ali_Tofiqi)
+- Linkedin - [@ali-tofiqi](https://www.linkedin.com/in/ali-tofiqi/)
+- GitHub - [@Ali-Tofiqi](https://github.com/Ali-Tofiqi)
 
